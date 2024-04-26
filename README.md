@@ -20,4 +20,4 @@ This is my second commit!!!!
 
 **Images**
 **Remote images**
-![An image of a cat](http://placekitten.com/200/300)
+![An image of a cat](http://placekitten.com/200/300.jpg)
